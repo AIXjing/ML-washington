@@ -1,2 +1,7 @@
-/ml-env
-/env
+venv
+venv_x86
+
+# Data
+people_wiki.sframe
+house_images
+home_data.sframe
