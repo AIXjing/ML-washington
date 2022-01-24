@@ -2,6 +2,8 @@ venv
 venv_x86
 
 # Data
-people_wiki.sframe
-house_images
-home_data.sframe
+**/people_wiki.sframe
+**/house_images
+**/home_data.sframe
+**/home_data.csv
+**/amazon_baby.csv
