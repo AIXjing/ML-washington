@@ -11,3 +11,6 @@ venv_x86
 **/people_wiki.csv
 **/song_data.csv
 **/song_data.sframe
+**/image_test_data
+**/image_train_data
+
